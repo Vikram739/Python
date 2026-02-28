@@ -1,0 +1,10 @@
+Sometimes, it is not enough to only display the data on the console. 
+The data to be displayed may be very large, and only a limited amount of data 
+can be displayed on the console since the memory is volatile, 
+it is impossible to recover the programmatically generated data again and again.
+
+The file handling plays an important role when the data needs to be stored permanently into the file. 
+A file is a named location on disk to store related information.
+ We can access the stored information (non-volatile) after the program termination.
+
+ 
